@@ -1,4 +1,4 @@
-# This is a readme
+# These are my course projects:
 
 Ataxx: A simple AI of ataxx.
 
