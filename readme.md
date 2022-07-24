@@ -1,4 +1,4 @@
-# These are my course projects:
+# Course projects done at PKU:
 
 Ataxx: A simple AI of ataxx.
 
